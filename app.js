@@ -1,0 +1,1 @@
+var app = "Sample Application.js created."
